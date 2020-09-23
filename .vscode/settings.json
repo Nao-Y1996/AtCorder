@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/NaoYamada/.anyenv/envs/pyenv/versions/anaconda3-5.3.0/bin/python3",
+  "python.formatting.provider": "yapf"
+}
